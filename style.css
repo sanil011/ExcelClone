@@ -6,6 +6,9 @@ body {
     margin: 0;
     padding: 0;
 }
+.material-icons{
+    cursor: pointer;
+}
 
 .page-action-cont {
     height: 3rem;
@@ -31,6 +34,10 @@ body {
 .cellprops-actions-cont>* {
     display: inline-block;
     margin-right: 1rem;
+}
+
+.cellprops-actions-cont>* :hover{
+    cursor: pointer;
 }
 
 .cellprops-actions-cont>select {
@@ -178,4 +185,21 @@ body {
     width: 5rem;
     border: 1px solid #dfe4ea;
     outline: none;
+}
+
+
+
+.color-prop{
+    position: relative;
+    cursor: pointer;
+}
+
+.color-prop > input{
+opacity: 0;
+cursor: pointer;
+position: absolute;
+top: 0;
+left: 0;
+height: 100%;
+width: 100%;
 }
