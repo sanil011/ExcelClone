@@ -8,11 +8,10 @@
 <h2>🧐 What it does</h2>
 
 *  It look like a excel and i try to add almost all functionality that has excel.
-*  We can format our text in cell and it does not effect other cell.
-*  We can related cell to other cell like B1 cell is depend on A1 cell by some formula like A1 +10 so whenever A1 cell change then B1 cell also change according to A1 cell data.
-*  We can download the sheet.
-*  We can also upload the sheet to excel.
-*  If two cell are related to eaxh other then it will also show the cycle and give you a warning when you connect to cell each other during adding formula.
+*  Isolated cell text formatting.
+*  Cell-to-cell relationships through formulas like B1 cell is depend on A1 cell by some formula like A1 +10 so whenever A1 cell change then B1 cell also change according to A1 cell data.
+*   Download and upload sheet capabilities.
+*  If two cell are related to each other then it will also show the cycle and give you a warning when you connect to cell each other during adding formula.
 *  We can cut,copy and paste wherever we want in a sheet.
 *  We can also add more sheet.
 
