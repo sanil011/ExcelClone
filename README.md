@@ -14,7 +14,7 @@
 *  We can also upload the sheet to excel.
 *  If two cell are related to eaxh other then it will also show the cycle and give you a warning when you connect to cell each other during adding formula.
 *  We can cut,copy and paste wherever we want in a sheet.
-*  We can also more sheet.
+*  We can also add more sheet.
 
-*  <img width="1440" alt="Screenshot 2023-07-24 at 12 24 32 AM" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+ <img width="1440" alt="Screenshot 2023-07-24 at 12 24 32 AM" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
